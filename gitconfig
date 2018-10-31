@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = ana.d.sere@gmail.com
+	name = Ana Sere
